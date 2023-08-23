@@ -1,0 +1,24 @@
+h1 {
+  color: red; /*atributo css color*/
+}
+h2 {
+  color: blue;
+}
+h3 {
+  color: green;
+}
+h4 {
+  color: pink;
+}
+h5 {
+  color: violet;
+}
+h6 {
+  color: maroon;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
